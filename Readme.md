@@ -1,7 +1,7 @@
 Ring Syntax highlighter for notepad++
 --------------
 This is a simple ring language syntax highlighter for notepad++
-if you don't know what ring languge is refer to : http://ring-lang.net/
+if you don't know what ring language is refer to : http://ring-lang.net/
 
 Screenshot
 ======
@@ -29,7 +29,7 @@ Run integration
 1. Open notepad++ if it's not already opend
 2. Open the "Run" menu
 3. Choose `Run...`
-4. On the run dialog Put this command(Chnage `RING_BIN_FOLDER` to point to ring folder): 
+4. On the run dialog Put this command(Change `RING_BIN_FOLDER` to point to ring folder): 
  
 `cmd /K cd /D "RING_BIN_FOLDER" && run.bat "$(FULL_CURRENT_PATH)""`
 
